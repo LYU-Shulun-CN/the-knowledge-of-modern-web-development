@@ -1,16 +1,16 @@
 # Web开发知识体系总结
 --大前端工程师知识体系结构详细分析
 
-| 知识模块 | 知识提要 |
+| Module | General |
 | --- | --- |
-| 基础知识 | HTML/CSS/JavaScript |
-| 类库/Server端/数据 | jQuery/Server 技术/Database/数据交换格式 |
-| 响应式/移动端 | 适配技术/移动端相关 |
-| 工程框架 | 开发框架 |
+| Basement | HTML / CSS / JavaScript |
+| 类库 / Server 端技术 / 数据 | jQuery / Node.js, PHP, Python, JSP / MySQL, MongoDB / XML, JSON |
+| 响应式 / 移动端 APP | 适配技术 / 移动端 APP 相关 |
+| 工程开发工具 | 开发框架 / 开发工具 |
 
 > updated 2018-12-31
 
-## 1.基础知识 HTML/CSS/JavaScript
+## 1.Basement HTML/CSS/JavaScript
 * `HTML`: 根据标签(`Tag`)标记(`Markup`)内容结构(`Content Structure`)
     * 通过 `HTML` 实现页面布局，语义化
     * 掌握 `HTML5` 新增的标签和属性
@@ -78,7 +78,7 @@
 * `Reactive Native`
 
 ## 9.Engineer Framework
-* `Node.js`: 基于 V8 引擎，用于搭建响应式框架工具
+* `Node.js`: 基于 Google V8 引擎，用于搭建响应式框架工具
 * `yo`/`grunt`/`bower`: 包管理工具
 * `Gulp`/`Fis`: 自动化构建工具
 * `RequireJS`/`Webpack`: 模块加载、打包工具
