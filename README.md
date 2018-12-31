@@ -8,6 +8,8 @@
 | 响应式/移动端 | 适配技术/移动端相关 |
 | 工程框架 | 开发框架 |
 
+> updated 2018-12-31
+
 ## 1.基础知识 HTML/CSS/JavaScript
 * `HTML`: 根据标签(`Tag`)标记(`Markup`)内容结构(`Content Structure`)
     * 通过 `HTML` 实现页面布局，语义化
