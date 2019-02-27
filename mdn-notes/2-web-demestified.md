@@ -76,7 +76,35 @@ These days there are two flavors of `JavaScript`:
     * (Page Visibility)  
     * (Web Authentication)  
 * JavaScript in the server:  (node.js)
-    * 
+    * Manage the computer directly (Path OS)  
+    * Access files and folders (File System)  
+    * Handle network resources (Net / URL / HTTP/2)  
+    * spawn processes (Process / Child Processes) 
+    * (Performance Hooks)  
+    * (Internationalization)  
+    * (Async Hooks)  
+    * (Timers)  
+    * (Domain)  
+    * (DNS)  
+    * (Events)  
+    * (Cluster)  
+    * (TLS/SSL)  
+    * (Readling)  
+    * (Stream)  
+    * (Assertion Testing)  
+    * (Srypto)  
+    * (Buffer)  
+    * (Inspector)  
+    * (Debugger)  
+    * (Errors)  
+    * (Console)  
+
+1. `JavaScript` is a programming language.  
+
+2. It's a combination of the `ECMAScript` standard with other standard functionalities. It is made of `ECMAScript` plus some standard APIs.  
+
+3. It's highly asynchronous and it can react to events.  
+
 
 ## What are Scalable Vector Graphics (SVG) & how are they special?  
 > Scalable Vector Graphics (SVG) 
