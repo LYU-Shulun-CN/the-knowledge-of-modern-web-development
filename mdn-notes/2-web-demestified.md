@@ -107,11 +107,36 @@ These days there are two flavors of `JavaScript`:
 
 
 ## What are Scalable Vector Graphics (SVG) & how are they special?  
-> Scalable Vector Graphics (SVG) 
+> Scalable Vector Graphics (`SVG`) 
 
+`SVG` is a acronym standing for Scalable Vector Graphics, and **it's the only vector image format for the web.**
 
+Two flavors: **Bitmap** and **Vector**.  
+* Bitmap for web: `JEPG` / `PNG` / `GIF`  
+* Vector for web: `SVG`  
+
+Drawing SVG software:  
+* Inskape  
+* Illustrator  
+* Sketch  
+
+JavaScirpt libraries:  
+* snap.svg  
+* Bonsai  
+* D3.js
+
+1. SVG is a vector image format, and it's perfect for creating images that stay sharp at any scale.  
+2. It can be authored, styled and scripted like HTML would be.  
+
+3. It's easier to use a drawing tool to create an SVG image.  
 
 ## How do web browsers work?  
-> web browsers  
+> How browsers work?  
+
+1. Browsers hadle network, content display, data storage, and content security.  
+
+2. Their technical requirements are the same as those of AAA games.  
+
+3. They let web creators building any type of content.(Any form of interactivity)  
 
 
