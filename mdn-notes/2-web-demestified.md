@@ -15,7 +15,7 @@
 `HTML` is a descriptive language that allows us to tell a web browser how to handle text content.  
 `HTML` is an acronym standing for HyperText Markup Language.  
 
-`HTML` follow rules defined by the **HTML Specification**, which is maintain by the W**orld Wide Web Consortium**, a.k.a W3C.  
+`HTML` follow rules defined by the **HTML Specification**, which is maintain by the **World Wide Web Consortium**, a.k.a W3C.  
 
 1. `HTML` is a markup language that allows to structure a text in order to make it understandable by web browsers.   
 
@@ -30,7 +30,7 @@
 LIke `HTML`, `CSS` is a declarative language, but instead of defining a semantic for some text, it defines the look and feel of each `HTML` elements.  
 `CSS` is an acronym standing for Cascading Style Sheets.  
 
-1. CSS is a declarative langugage that allow you to define the look and feel of HTML elements.  
+1. CSS is a declarative langugage that allows you to define the look and feel of HTML elements.  
 
 2. Style rules target HTML elements with selectors and they applied visual effects defined by style declarations.  
 
@@ -115,20 +115,21 @@ Two flavors: **Bitmap** and **Vector**.
 * Bitmap for web: `JEPG` / `PNG` / `GIF`  
 * Vector for web: `SVG`  
 
-Drawing SVG software:  
+**Drawing SVG software:**  
 * Inskape  
 * Illustrator  
 * Sketch  
 
-JavaScirpt libraries:  
+**JavaScirpt libraries**:  
 * snap.svg  
 * Bonsai  
 * D3.js
 
-1. SVG is a vector image format, and it's perfect for creating images that stay sharp at any scale.  
+1. `SVG` is a vector image format, and it's perfect for creating images that stay sharp at any scale.  
+
 2. It can be authored, styled and scripted like HTML would be.  
 
-3. It's easier to use a drawing tool to create an SVG image.  
+3. It's easier to use a drawing tool to create an `SVG` image.  
 
 ## How do web browsers work?  
 > How browsers work?  
