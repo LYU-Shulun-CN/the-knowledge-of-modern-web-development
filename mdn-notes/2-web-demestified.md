@@ -15,7 +15,7 @@
 `HTML` is a descriptive language that allows us to tell a web browser how to handle text content.  
 `HTML` is an acronym standing for HyperText Markup Language.  
 
-`HTML` follow rules defined by the **HTML Specification**, which is maintain by the **World Wide Web Consortium**, a.k.a W3C.  
+`HTML` follow rules defined by the **HTML Specification**, which is maintained by the **World Wide Web Consortium**, a.k.a W3C.  
 
 1. `HTML` is a markup language that allows to structure a text in order to make it understandable by web browsers.   
 
@@ -106,7 +106,7 @@ These days there are two flavors of `JavaScript`:
 3. It's highly asynchronous and it can react to events.  
 
 
-## What are Scalable Vector Graphics (SVG) & how are they special?  
+## What are Scalable Vector Graphics (`SVG`) & how are they special?  
 > Scalable Vector Graphics (`SVG`) 
 
 `SVG` is a acronym standing for Scalable Vector Graphics, and **it's the only vector image format for the web.**
